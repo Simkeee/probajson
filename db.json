@@ -1,0 +1,2309 @@
+{
+  "productList": [
+   {
+    "id": "1",
+    "title": "Aechmea fasc. Primera",
+    "image": "assets\\proizvidi\\slika-1.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "2",
+    "title": "Allium (bulb)",
+    "image": "assets\\proizvidi\\slika-3.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "3",
+    "title": "Alocasia Black Velvet ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "4",
+    "title": "Alocasia Polly ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "5",
+    "title": "Aloe arborescens",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "6",
+    "title": "Aloe aristata Tabo",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 16,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "7",
+    "title": "Aloe vera",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "8",
+    "title": "Ananas Mi Amigo",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 36,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "9",
+    "title": "Anthurium Beliza",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "10",
+    "title": "Anthurium Edison",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "11",
+    "title": "Anthurium Jambo red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "12",
+    "title": "Anthurium Mauii Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 23,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "13",
+    "title": "Anthurium Sierra White",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "14",
+    "title": "Anthurium Success Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "15",
+    "title": "Anthurium Sweet Dream",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "16",
+    "title": "arr. Phalaenopis",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "17",
+    "title": "arr. Phalaenopis",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "18",
+    "title": "Aucuba jap. Crotonifolia ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "19",
+    "title": "Begonia el.  mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 34,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "20",
+    "title": "Begonia el.  mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "21",
+    "title": "Begonia el. Baladin ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 31,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "22",
+    "title": "Bonsai mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "23",
+    "title": "Bougainvillea Dania pink trellis",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "24",
+    "title": "Bougainvillea sanderiana",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 19,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "25",
+    "title": "Bromelia mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "26",
+    "title": "Bromelia mix 15 var.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "27",
+    "title": "Bromelia mix 5 var.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 37,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "28",
+    "title": "Cactus",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 6,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "29",
+    "title": "Cactus mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "30",
+    "title": "Cactus mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "31",
+    "title": "Cactus mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 506,
+    "visina": 9,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "32",
+    "title": "Cactus mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "33",
+    "title": "Cactus mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 511,
+    "visina": 18,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "34",
+    "title": "Cactus mix 18 var.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 505,
+    "visina": 10,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "35",
+    "title": "Cactus mix 8 var.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "36",
+    "title": "Calathea Medallion ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "37",
+    "title": "Calathea overig",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "38",
+    "title": "Cambria Wilsonara Zoes Fire",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 90,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "39",
+    "title": "Campanula por. Dark Take (O)",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "40",
+    "title": "Campanula por. Take White",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "41",
+    "title": "Chamaedorea elegans",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "42",
+    "title": "Chamaedorea elegans",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "43",
+    "title": "Chlorophytum Bonnie",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "44",
+    "title": "Chrysanthemum Artistic Rosy",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 28,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "45",
+    "title": "Chrysanthemum carnaval",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "46",
+    "title": "Chrysanthemum mix 5 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "47",
+    "title": "Chrysanthemum mix bicolour",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "48",
+    "title": "Clematis 3 er-Set mon. Mayleen",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "49",
+    "title": "Clematis overig",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "50",
+    "title": "Clivia miniata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "51",
+    "title": "Codiaeum Excellent",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "52",
+    "title": "Codiaeum Mrs Iceton",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 27,
+    "visina": 90,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "53",
+    "title": "Codiaeum Petra",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "54",
+    "title": "Coffea arabica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "55",
+    "title": "Coleus can. Verpiss Dich",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 10,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "56",
+    "title": "Cordyline frut. mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "57",
+    "title": "Crassula ovata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 22,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "58",
+    "title": "Crassula overig",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "59",
+    "title": "Crassula Sunset",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 19,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "60",
+    "title": "Crossandra inf. Fortuna",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "61",
+    "title": "Curio fic. Mount Everest",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "62",
+    "title": "Dendrobium Apollon",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "63",
+    "title": "Dendrobium nob. mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "64",
+    "title": "Dendrobium nobile cultivars",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "65",
+    "title": "Dendrobium Sunny Eyes",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 70,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "66",
+    "title": "Dianthus I Love U",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 21,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "67",
+    "title": "Dianthus Super Trouper Oscar",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "68",
+    "title": "Dieffenbachia Compacta ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "69",
+    "title": "Dieffenbachia Green Magic ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "70",
+    "title": "Dracaena Bicolor",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 130,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "71",
+    "title": "Dracaena der. Warneckei",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "72",
+    "title": "Dracaena der. Warneckei 30-11",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 19,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "73",
+    "title": "Dracaena frag. Cintho",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "74",
+    "title": "Dracaena Fragrans Steudneri",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 24,
+    "visina": 159,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "75",
+    "title": "Dracaena Magenta",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 100,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "76",
+    "title": "Dracaena marginata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "77",
+    "title": "Dracaena marginata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 90,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "78",
+    "title": "Dracaena marginata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "79",
+    "title": "Dracaena marginata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "80",
+    "title": "Dracaena marginata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "81",
+    "title": "Dypsis lutescens",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 27,
+    "visina": 170,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "82",
+    "title": "Echeveria Miranda ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 6,
+    "visina": 9,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "83",
+    "title": "Echeveria Perle von Nurnberg",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 508,
+    "visina": 11,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "84",
+    "title": "Echinocactus grusonii",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "85",
+    "title": "Echinocactus grusonii",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 30,
+    "visina": 28,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "86",
+    "title": "Echinocactus grusonii",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "87",
+    "title": "Epipremnum pin. Aureum",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "88",
+    "title": "Epipremnum pinnatum",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "89",
+    "title": "Euonymus jap. mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 27,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "90",
+    "title": "Euphorbia trigona Rubra ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "91",
+    "title": "Fatshedera lizei mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 33,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "92",
+    "title": "Ficus bengh. Audrey",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "93",
+    "title": "Ficus benj. Andrea ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "94",
+    "title": "Ficus benj. Bushy King",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "95",
+    "title": "Ficus benj. Exotica ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 27,
+    "visina": 140,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "96",
+    "title": "Ficus benj. Kinky",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "97",
+    "title": "Ficus benj. Natasja ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "98",
+    "title": "Ficus el. Belize ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "99",
+    "title": "Ficus el. Cloe",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "100",
+    "title": "Ficus el. Melany",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "101",
+    "title": "Ficus el. Tineke ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "102",
+    "title": "Ficus el. Tineke ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 90,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "103",
+    "title": "Ficus el. Tineke ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "104",
+    "title": "Ficus elastica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 508,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "105",
+    "title": "Ficus elastica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 70,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "106",
+    "title": "Ficus Ginseng",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 22,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "107",
+    "title": "Ficus Ginseng",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "108",
+    "title": "Ficus Ginseng",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "109",
+    "title": "Ficus lyrata Bambino",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 42,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "110",
+    "title": "Gardenia jasminoides",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "111",
+    "title": "Gardenia jasminoides",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "112",
+    "title": "Gerbera Colourgame mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "113",
+    "title": "Gerbera Colourgame mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "114",
+    "title": "Guzmania mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "115",
+    "title": "Guzmania mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "116",
+    "title": "Guzmania Candy",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "117",
+    "title": "Guzmania Charm",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 17,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "118",
+    "title": "Guzmania Claire",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "119",
+    "title": "Guzmania Confetti",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 27,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "120",
+    "title": "Guzmania Freya",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 70,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "121",
+    "title": "Guzmania Happiness",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "122",
+    "title": "Guzmania Hope",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "123",
+    "title": "Guzmania mix ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "124",
+    "title": "Guzmania Priscilla",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 11,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "125",
+    "title": "Guzmania Punta",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "126",
+    "title": "Guzmania Switch ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "127",
+    "title": "Guzmania Tinto ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "128",
+    "title": "Hydrangea macr. Adula",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "129",
+    "title": "Hydrangea macr. blue",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "130",
+    "title": "Hydrangea macr. Grumpy",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "131",
+    "title": "Hydrangea macr. Hi Tornado",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "132",
+    "title": "Hydrangea macr. mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "133",
+    "title": "Hydrangea macr. mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "134",
+    "title": "Hydrangea macr. Vuurwerk white",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "135",
+    "title": "Jasminum polyanthum",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "136",
+    "title": "Kalanchoe double carnaval",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "137",
+    "title": "Kalanchoe double mix 4 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "138",
+    "title": "Kalanchoe double mix 5 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 23,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "139",
+    "title": "Kalanchoe double mix 5 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 8,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "140",
+    "title": "Kalanchoe double Perfecta mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 7,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "141",
+    "title": "Kalanchoe Rosalina mix 5 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 6,
+    "visina": 12,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "142",
+    "title": "Kalanchoe Rosalina mix 5 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 19,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "143",
+    "title": "Leucothoe font. Makijaz",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "144",
+    "title": "Leucothoe 'Little Flames'",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "145",
+    "title": "Lilium or. Starlight Express ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "146",
+    "title": "Lonicera",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "147",
+    "title": "Ludisia discolor",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "148",
+    "title": "Mammilaria mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 8,
+    "visina": 10,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "149",
+    "title": "Mandevilla Rio Deep Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "150",
+    "title": "Mandevilla Rio Grande Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "151",
+    "title": "Medinilla magnifica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "152",
+    "title": "Miltonia mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "153",
+    "title": "Monstera obliqua",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "154",
+    "title": "Musa Dwarf Cavendish ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "155",
+    "title": "Musa Dwarf Cavendish ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 90,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "156",
+    "title": "Neoregelia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "157",
+    "title": "Nertera gra. Astrid ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 8,
+    "visina": 10,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "158",
+    "title": "Oxalis deppei",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 10,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "159",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 110,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "160",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 30,
+    "visina": 180,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "161",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "162",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 23,
+    "visina": 120,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "163",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "164",
+    "title": "Pachira aquatica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 26,
+    "visina": 130,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "165",
+    "title": "Paeonia Lactiflora mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 15,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "166",
+    "title": "Paeonia mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "167",
+    "title": "Paphiopedilum USA hybrid",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "168",
+    "title": "Passiflora",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "169",
+    "title": "Peperomia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "170",
+    "title": "Peperomia cap. Lilian",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "171",
+    "title": "Phalaenopsis Evolution",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "172",
+    "title": "Phalaenopsis Gold",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 70,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "173",
+    "title": "Phalaenopsis hybrid",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "174",
+    "title": "Phalaenopsis hybrid",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "175",
+    "title": "Phalaenopsis mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "176",
+    "title": "Phalaenopsis mix 10 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "177",
+    "title": "Phalaenopsis mix 12 kl.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "178",
+    "title": "Phalaenopsis mix 6 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "179",
+    "title": "Phalaenopsis mix 7 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "180",
+    "title": "Phalaenopsis mix 7 col.",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "181",
+    "title": "Phalaenopsis orange",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "182",
+    "title": "Phalaenopsis purple",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "183",
+    "title": "Phalaenopsis purple",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 6,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "184",
+    "title": "Phalaenopsis Showpiece",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "185",
+    "title": "Philodendron",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "186",
+    "title": "Philodendron Imperial Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "187",
+    "title": "Phoenix canariensis",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 180,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "188",
+    "title": "Polyscias Fabian",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 19,
+    "visina": 75,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "189",
+    "title": "Rhododendron cat. Nova Zembla ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 19,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "190",
+    "title": "Rhododendron cau. Cosmopolitan ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 19,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "191",
+    "title": "Rhododendron ponticum",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "192",
+    "title": "Rhododendron sim. Vogel mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "193",
+    "title": "Rosa Amorosa Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "194",
+    "title": "Rosa Favourite mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 32,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "195",
+    "title": "Rosa Favourite Red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 37,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "196",
+    "title": "Rosa Jewel Hot",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "197",
+    "title": "Rosa Kordana Grande mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 29,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "198",
+    "title": "Rosa Lotz Yellow",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 27,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "199",
+    "title": "Rosa Onlymix Maison ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 36,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "200",
+    "title": "Rosa Parade Gigi",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 7,
+    "visina": 17,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "201",
+    "title": "Rosa PatioHit",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 33,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "202",
+    "title": "Rosa Rosaroma mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "203",
+    "title": "Rosa Scarlet Mercedes Kordana",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "204",
+    "title": "Rosa Victory",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "205",
+    "title": "Saintpaulia Inova Spectra mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "206",
+    "title": "Saintpaulia mix Creme de la creme",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "207",
+    "title": "Saintpaulia red",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 20,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "208",
+    "title": "Sansevieria Black Gold",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 38,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "209",
+    "title": "Sansevieria cyl. Skyline ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 27,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "210",
+    "title": "Sansevieria cylindrica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 10,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "211",
+    "title": "Sansevieria cylindrica",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 8,
+    "visina": 27,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "212",
+    "title": "Sansevieria Futura Superba",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "213",
+    "title": "Sansevieria Laurentii",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "214",
+    "title": "Sansevieria trifasciata",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "215",
+    "title": "Schefflera arb. Mme De Smet ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "216",
+    "title": "Schefflera arb. Nora ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "217",
+    "title": "Selaginella apoda",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 12,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "218",
+    "title": "Selaginella mar. Jori ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 15,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "219",
+    "title": "Soleirolia green",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 11,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "220",
+    "title": "Spathiphyllum",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "221",
+    "title": "Spathiphyllum Alana ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "222",
+    "title": "Spathiphyllum Alana ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "223",
+    "title": "Spathiphyllum Bingo Cupido",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 70,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "224",
+    "title": "Spathiphyllum Chopin ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "225",
+    "title": "Spathiphyllum Korto",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "226",
+    "title": "Spathiphyllum Silver Cupido",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "227",
+    "title": "Spathiphyllum Strauss ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "228",
+    "title": "Spathiphyllum Sweet Chico ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "229",
+    "title": "Spathiphyllum Sweet Chico ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "230",
+    "title": "Spathiphyllum Sweet Chico ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 13,
+    "visina": 60,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "231",
+    "title": "Spathiphyllum Torelli",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "232",
+    "title": "Spathiphyllum Verdi ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "233",
+    "title": "Stephanotis floribunda",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "234",
+    "title": "Succulents mix",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 510,
+    "visina": 14,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "235",
+    "title": "Syngonium",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "236",
+    "title": "Syngonium Pink Splash",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 25,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "237",
+    "title": "Tillandsia Cyanea Anita",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 26,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "238",
+    "title": "Vriesea Cathy ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 37,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "239",
+    "title": "Vriesea Elan ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 47,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "240",
+    "title": "Vriesea Era ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 9,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "241",
+    "title": "Waterplanten overig",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 26,
+    "visina": 35,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "242",
+    "title": "Yucca",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "243",
+    "title": "Yucca",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 100,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "244",
+    "title": "Yucca",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 21,
+    "visina": 80,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "245",
+    "title": "Yucca",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 24,
+    "visina": 130,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "246",
+    "title": "Yucca ele. branched",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 27,
+    "visina": 110,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "247",
+    "title": "Zamioculcas zamiifolia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "248",
+    "title": "Zamioculcas zamiifolia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "249",
+    "title": "Zamioculcas zamiifolia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 65,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "250",
+    "title": "Zamioculcas zamiifolia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 55,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "251",
+    "title": "Zantedeschia",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 17,
+    "visina": 45,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "252",
+    "title": "Zantedeschia Grape Velvet",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 30,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "253",
+    "title": "Zantedeschia mix ",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 12,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "254",
+    "title": "Zantedeschia Paco",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 50,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  },
+  {
+    "id": "255",
+    "title": "Zantedeschia Sunclub",
+    "image": "assets\\proizvidi\\slika-2.jpg",
+    "category": "cvece",
+    "saksija": 14,
+    "visina": 40,
+    "price": "POZOVITE ZA INFORMACIJE O CENI"
+  }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
